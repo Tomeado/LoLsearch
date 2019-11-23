@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_drawer_search"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="소환사검색" />
+    <item
+        android:id="@+id/menu_drawer_community"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="커뮤니티" />
+    <item
+        android:id="@+id/menu_drawer_login"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="로그인" />
+    <item
+        android:id="@+id/menu_drawer_logout"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="로그아웃" />
+</menu>
